@@ -1,0 +1,28 @@
+créer une classe de prénom d'occurences faibles
+
+
+colonne à nettoyer
+
+train_age 80% 
+	distribution sur les autres param : 0
+
+test_age 79% 
+	distribution sur les autres param : 		faible impact, 
+		voir le lien age et Pclass
+
+train_cabin 23%
+
+test_cabin 49%
+
+train_embarked 100% RAS
+
+test_embarked 100% RAS
+
+
+
+
+train_embarked_age 79%
+drop cabin bridge
+drop name ticket
+
+
